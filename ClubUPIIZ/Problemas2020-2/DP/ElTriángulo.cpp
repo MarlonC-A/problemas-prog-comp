@@ -1,3 +1,6 @@
+// https://omegaup.com/arena/problem/triangulo#problems
+// MarlonC-A, 2020
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
